@@ -1,0 +1,2 @@
+# OPaLiMa
+OpenParagliderLineMap Standard
